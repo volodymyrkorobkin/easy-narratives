@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/easy-narratives/static/css/main.2677c185.css",
-    "main.js": "/easy-narratives/static/js/main.059df264.js",
+    "main.js": "/easy-narratives/static/js/main.924cf014.js",
     "static/js/453.25293f8c.chunk.js": "/easy-narratives/static/js/453.25293f8c.chunk.js",
     "index.html": "/easy-narratives/index.html",
     "main.2677c185.css.map": "/easy-narratives/static/css/main.2677c185.css.map",
-    "main.059df264.js.map": "/easy-narratives/static/js/main.059df264.js.map",
+    "main.924cf014.js.map": "/easy-narratives/static/js/main.924cf014.js.map",
     "453.25293f8c.chunk.js.map": "/easy-narratives/static/js/453.25293f8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2677c185.css",
-    "static/js/main.059df264.js"
+    "static/js/main.924cf014.js"
   ]
 }
